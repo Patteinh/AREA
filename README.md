@@ -8,7 +8,7 @@
 - [Libraries Used](#libraries-used-)
 - [AREA Diagram](#area-diagram-)
 - [Integrated External Services](#integrated-external-services)
-- [Getting Started with AREA](#getting-started-with-area-)
+- [Getting Started with AREA](#starting-area)
 - [Contributors](#contributors-)
 
 <br>
