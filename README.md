@@ -9,6 +9,7 @@
 - [AREA Diagram](#area-diagram-)
 - [Integrated External Services](#integrated-external-services)
 - [Getting Started with AREA](#getting-started-with-area-)
+- [License](#license-)
 
 <br>
 
