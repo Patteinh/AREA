@@ -2,13 +2,13 @@
 
 ## Table of Contents 📑
 
-- [Overview of AREA](#overview-of-area)
+- [Overview of AREA](#overview-of-area-)
 - [Documentation](#documentation-)
 - [Technology Stack](#technology-stack-)
 - [Libraries Used](#libraries-used-)
 - [AREA Diagram](#area-diagram-)
 - [Integrated External Services](#integrated-external-services)
-- [Getting Started with AREA](#starting-area-)
+- [Getting Started with AREA](#getting-started-with-area-)
 
 <br>
 
@@ -176,7 +176,7 @@ For complete details of each service trigger, actions and ingredients read the f
 
 <br>
 
-## Starting AREA 💾
+## Getting Started with AREA 💾
 
 ### Local Setup:
 1. Ensure Docker and Docker Compose are installed on your local machine.
