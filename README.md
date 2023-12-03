@@ -1,4 +1,4 @@
-# AREA 📱
+# AREA - Major 2023 📱
 
 ## Table of Contents 📑
 
