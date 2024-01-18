@@ -150,17 +150,18 @@ For a comprehensive list of all libraries and dependencies utilized in this proj
 
 ## Integrated External Services
 
-<div style="text-align: right;">
-  <img src="https://openweathermap.org/themes/openweathermap/assets/img/mobile_app/android-app-top-banner.png" alt="OpenWeather Logo" width="60">
-  <img src="https://t3.ftcdn.net/jpg/05/29/73/96/360_F_529739662_yRW6APsQg3PaJGQ6afQL8hDdod0OR1re.jpg" alt="dateTime logo" width="60">
-  <img src="https://camo.githubusercontent.com/8b52e302122a31c683c4a9cf8e71d29cc8aba3ebb6a5ac7ae7818b5b14ba1c15/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c652e737667" alt="Google Logo" width="60"">
-  <img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="Gmail Logo" width="60">
-  <img src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" alt="YouTube Logo" width="60">
-  <img src="https://camo.githubusercontent.com/dfd07c1182528521769ef6260a2cb26abd3bc107b1089da677984ed9ad88db76/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f64726f70626f782e737667" alt="Dropbox Logo" width="60">
-  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub Logo" width="60">
-  <img src="https://camo.githubusercontent.com/15d4e1b8bf3ed25b7131cc93f248f86cc42deaf9e19fdb61aa1ba3b46e0400a5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f73706f746966792e737667" alt="Spotify Logo" width="60">
-  <img src="https://camo.githubusercontent.com/c5942c39052ad962364ea8286a6991f7a9b036bf1d96d20db346d9dfd844dfa4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7477697463682e737667" alt="Twitch Logo" width="60">
+<div style="text-align: center;">
+  <img src="https://cdn-icons-png.flaticon.com/128/1163/1163657.png" alt="OpenWeather Logo" width="60" style="margin-right: 15px;">
+  <img src="https://cdn-icons-png.flaticon.com/128/2972/2972531.png" alt="dateTime logo" width="60" style="margin-right: 15px;">
+  <img src="https://cdn-icons-png.flaticon.com/128/300/300221.png" alt="Google Logo" width="60" style="margin-right: 15px;">
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Gmail Logo" width="60" style="margin-right: 15px;">
+  <img src="https://cdn-icons-png.flaticon.com/128/3670/3670147.png" alt="YouTube Logo" width="60" style="margin-right: 15px;">
+  <img src="https://cdn-icons-png.flaticon.com/128/2504/2504780.png" alt="Dropbox Logo" width="60" style="margin-right: 15px;">
+  <img src="https://cdn-icons-png.flaticon.com/128/733/733609.png" alt="GitHub Logo" width="60" style="margin-right: 15px;">
+  <img src="https://cdn-icons-png.flaticon.com/128/3669/3669986.png" alt="Spotify Logo" width="60" style="margin-right: 15px;">
+  <img src="https://cdn-icons-png.flaticon.com/128/3669/3669999.png" alt="Twitch Logo" width="60">
 </div>
+
 
 <br>
 
